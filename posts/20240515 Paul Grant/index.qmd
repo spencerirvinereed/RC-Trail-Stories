@@ -2,6 +2,7 @@
 title: "Paul & Grant"
 author: "DK"
 date: "2024-05-15"
+draft: yes
 categories: [recollection, confluence]
 image: "m1.jpg"
 ---

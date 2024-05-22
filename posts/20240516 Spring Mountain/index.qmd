@@ -2,6 +2,7 @@
 title: "Spring Mountains"
 author: "DK"
 date: "2024-05-16"
+draft: yes
 categories: [colors]
 ---
 

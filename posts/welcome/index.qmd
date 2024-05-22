@@ -7,14 +7,14 @@ categories: [memories]
 
 Capturing reminders, thoughts, and feelings on the trail of RC.
 
-Began as an exercise routine.
+Hike began as a part of an exercise routine.
 
 Sights and sounds kept bringing me back.
 
----
+------------------------------------------------------------------------
 
 Now it has spawned thoughts and feelings
 
-Captured recollections of that place
+Capturing recollections from that place
 
 ![RC Peak](images/20240407_092834-01.jpeg){#fig-20240407A}

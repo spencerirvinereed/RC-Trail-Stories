@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "RC Tales"
+  title: "RC Trail Tales"
   navbar:
     right:
       - about.qmd
