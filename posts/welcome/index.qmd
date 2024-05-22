@@ -18,3 +18,17 @@ Now it has spawned thoughts and feelings
 Capturing recollections from that place
 
 ![RC Peak](images/20240407_092834-01.jpeg){#fig-20240407A}
+
+Note:
+
+These blog entries created using [Quarto](https://quarto.org/docs/websites/website-blog.html)
+
+And following the guidelines in this YouTube video
+
+{{< video https://www.youtube.com/embed/YoKjBcuUP0s
+    title="Blogging with Quarto: a 10 minute getting started tutorial"
+    start="240"
+    aspect-ratio="4x3" 
+>}}
+
+
