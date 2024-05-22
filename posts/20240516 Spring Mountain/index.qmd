@@ -1,0 +1,12 @@
+---
+title: "Spring Mountains"
+author: "DK"
+date: "2024-05-16"
+categories: [colors]
+---
+
+Never realized various colors of green.
+
+![20240516A](20240516_065544-01.jpeg){#fig-20240515A}
+
+![20240516B](20240516_081333-01.jpeg){#fig-20240515B}

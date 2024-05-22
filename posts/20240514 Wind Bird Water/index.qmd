@@ -1,0 +1,28 @@
+---
+title: "Confluence"
+author: "DK"
+date: "2024-05-14"
+format:
+  html:
+    resources:
+      - 20240512_brook.mp3
+categories: [recollection, confluence]
+image: "m1.jpeg"
+---
+
+Hike for exercise.
+
+![20240514A RC](m1.jpeg){#fig-20240514A}
+
+Confluence of Water flowing, bird. Feel the cool breeze.
+
+## Flowing Water
+
+<figure>
+<figcaption>Click to Listen</figcaption>
+<audio controls src="20240512_brook.mp3">
+Your browser does not support the <code>audio</code> element.
+</audio>
+</figure>
+
+![20240514B RC](m2.jpeg){#fig-20240514B}
