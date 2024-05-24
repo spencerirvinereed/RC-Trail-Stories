@@ -1,5 +1,5 @@
 ---
-title: "Trail Stories"
+title: "협곡 (峽谷) 이야기"
 listing:
   contents: posts
   sort: "date desc"
