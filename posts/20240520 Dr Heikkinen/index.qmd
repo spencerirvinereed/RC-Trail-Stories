@@ -26,7 +26,7 @@ I understand that cycles of fashion is a necessary means of generating cash for 
 
 ![](20240518_090617.JPG)
 
----
+------------------------------------------------------------------------
 
 When I returned to my home country after 25 years away, I was surprised how well everyone dressed.\
 As well as how fast a trend permeated through the society.
@@ -45,7 +45,7 @@ All were the 2-button variety.
 
 Now twenty some years later, I have worn out those suits and they have served me well.
 
----
+------------------------------------------------------------------------
 
 Furthermore, some of the younger colleagues were correcting my Korean, saying I was using terms that were no longer in vogue.
 
@@ -67,7 +67,7 @@ According to the VP of Manufacturing, I was the only person that had all these c
 
 They were planning on hiring the technical person and assigning a translator to make this work.
 
----
+------------------------------------------------------------------------
 
 I no longer check to see if others are wearing a 2 or 3-button suits.
 
@@ -77,7 +77,9 @@ Moreover, I have witnessed other fads and trends.
 
 Two principles have helped.
 
-The guiding phrase from my parents has been^[<https://oakhi.github.io/Life-Begins-When/posts/20231212%20Sayings%20of%20My%20Parents/>]
+The guiding phrase from my parents has been[^1]
+
+[^1]: <https://oakhi.github.io/Life-Begins-When/posts/20231212%20Sayings%20of%20My%20Parents/>
 
 > 소문난 잔치에 먹을거 없다 (Well publicized event has no food)
 

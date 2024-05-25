@@ -5,11 +5,11 @@ date: "2024-05-17"
 categories: [memories]
 ---
 
-Tried to connect remains and envision the stairs connecting floors before it was torn apart.
+Tried to connect remains and envision the stairs connecting floors, before it was torn apart.
 
 What was once a 3 story temple, now resembled a double humped camel lying down.
 
-The lowest, biggest round spire sat between 2 remaining part of the temple.
+The lowest, biggest round spire sat between that 2 remaining part of the temple.
 
 A man approached and said, he was at the dedication of the temple.
 
@@ -26,16 +26,16 @@ He looked 15 to 20 years younger than his age.
 Unlike me, lamenting the loss and second guessing the decision to demolish and rebuild the structure, he was optimistic and look forward to the new temple
 
 He served a Western Mexico Mission with our neighbor, F. Gomez. 
-He is from El Monte, Los Angeles.  
+He lived in El Monte, Los Angeles.  
 Close to the area of my mission.
 
 When he was a Bishop there was only one Spanish speaking Ward. 
 Now, 50 years later, there are over 40 congregations in the Utah County.
 
 He also recounted his time at the BYU International Studies.
-In 1990 he was called to serve on the Young Men General Board^[https://www.thechurchnews.com/1990/4/28/23261841/new-board-members-enoc-q-flores/]
+Moreover, in 1990 he was called to serve on the Young Men General Board^[https://www.thechurchnews.com/1990/4/28/23261841/new-board-members-enoc-q-flores/]
 
-![20240517A](20240517_075619.jpg){#fig-20240517A}
+![](20240517_075619.jpg)
 
 ## Antique vs Vintage
 
@@ -43,12 +43,13 @@ Generative AI states,
 
 > An antique is an item that is at least 100 years old, while a vintage item is typically between 20 and 100 years old. The term "true vintage" refers to items that are at least 50 years old. 
 
-Although the term antique and vintage are used to describe items such as housewares and accessories, the term antique and *true vintage* can serve as marker to indicate an age of man-made items.
+Although the term antique and vintage are used to describe items such as housewares and accessories, the term antique and *true vintage* can serve as a marker or a classifier to indicate an age of man-made items.
 
 Including edifices.
 
-According to above definitions following temples are antiques.^[https://churchofjesuschristtemples.org/temples/chronology/]
-(Years since Dedication, As of 2024)
+According to above definitions following temples are `antiques`.^[https://churchofjesuschristtemples.org/temples/chronology/]
+
+[Year dedicated, (Years since Dedication), As of 2024]
 
 - 1877 (147) - St. George Utah 
 - 1884 (140) - Logan Utah
@@ -74,9 +75,9 @@ Of the *true vintage* temples, or any other temples built in the modern era, onl
 
 Although it can be further speculated, it appears that the remaining *true vintage* temples will be updated rather than rebuilt from the ground up.
 
-![26 March 2022](temple_dusk.jpg)
+![26 March 2022](temple_dusk.jpg)  
 
-## To rebuild and start-over
+## To Rebuild and Start-over
 
 The original Provo Utah took 2 years and 5 months to complete.^[https://www.thechurchnews.com/2022/2/9/23218910/provo-utah-temple-history-future-renovation-redesign-50th-anniversary/]
 
@@ -85,29 +86,40 @@ The original Provo Utah took 2 years and 5 months to complete.^[https://www.thec
 
 It is estimated to take 4 years for the new temple to be built.^[source to be confirmed]
 
-Whereas, the demolition began in earnest on the 18 April 2024 with the removal of the Angel Moroni.
+The demolition began in earnest on the 18 April 2024 with the removal of the Angel Moroni.
 
 By the time, Hermano Flores and I met on 17 May 2024, the former edifice, Provo Utah Temple, was no longer.
 
-The demolition phase was complete and the work was transitioning to clearning the debris phase.
+The demolition phase was complete and the work was transitioning to clearing the debris phase.
 
-This spring, in particular during May, the weather seemed cooler and wetter.
+This spring, especially during May, the weather seemed cooler and wetter.
 On an emotional level, perhaps heavens were weeping a bit for this structure as well.
-Or pragmatically, the moisture was sent to minimize the dust and other particles that were being generated during the razing.
+Pragmatically, the moisture was sent to minimize the dust and other particles that were being generated during the razing.
 
-I am grateful that I met E. Flores so that we can visit and learn how the Lord has guided him.
+---
+
+Grateful that H. Flores and I met, so that we can visit and learn how the Lord has guided him.
 Also that I can learn from his views and his enthusiasm for the change and improvement to temples around us.
 
-Thank you, Provo Temple for the serving the community of Provo and the Utah Valley for the past 52 years.
-The presence and the environment it created.
 
-Grateful for the memories both religious and secular, because there was a vintage temple nearby.
+Thank you H. Flores and others who have served within the Temple, locally and at times far removed from home.
+
+Thank you, Provo Temple for the serving the community of Provo and the Utah Valley for the past 52 years.
+
+As a connection between the temporal and eternal realm.
+As a reminder of things spiritual in a physical world.
+
+For the presence, reminder, by blending with the environment.
+Not in an overwhelming, or apart from the surrounding, way.
+
+Grateful for the memories both religious and secular, because there was a `true vintage` temple and people nearby.
 
 ![20240517B](20240517_192103.jpg){#fig-20240517B}  
+# Appendix
 
 ## Reckoning of Years and Structures in Europe
 
-Years seem to be replaced by centuries.
+Years seem to be replaced by decades and even centuries.
 
 Chat GPT lists these notable structures.
 
