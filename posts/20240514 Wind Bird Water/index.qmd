@@ -1,5 +1,5 @@
 ---
-title: "Confluence"
+title: "Water, Wind, Bird"
 author: "DK"
 date: "2024-05-14"
 format:
@@ -14,11 +14,11 @@ Began as a physical exercise.
 
 Before work, a hike to a nearby by canyon.
 
-Evolved into a glimpse into nature with its changes.
+Evolved into a glimpse into nature and its changes.
 
-A different offerings seasonally, as well as the time of the day.
+A seasonal offerings, the time of the day, at first not noticed and not appreciated.
 
-Confirming the Greek philosopher Heraclitus' quote,
+Challenging yet confirming daily the Greek philosopher Heraclitus' quote,
 
 > **Everything changes and nothing remains still; and you cannot step twice into the same stream**
 
@@ -26,21 +26,17 @@ Confirming the Greek philosopher Heraclitus' quote,
 
 Each hike is different than the one before, even on the same path, at the same hour.
 
-Because the Canyon offers a combination of flowing water, singing birds or flowing breeze.
+Because the Canyon offers a combination of flowing water, singing birds or flowing breeze. Sounds one can hear and also feel. In the morning, the canyon feels as if a chilled oxygen tank has been opened.
 
-Sounds one can hear but also feel.
+These seemingly same or similar scenes, gradually transforms persons. As a person takes a step forward and upward, it seems to remove or empty terrestrial items.
 
-These seemingly same or similar scenes, gradually transforms persons.
-
-Reshaped by the ever changing yet complete or whole environment.
-
-Close to man-made developments yet a representation of another world.
+The emptied mind is replaced with recollections of the past, appreciation for the people in one's life, and a hope in the change that will make one complete or whole.
 
 ## Flowing Water
 
 <figure>
 
-<figcaption>Click to Listen</figcaption>
+<figcaption>Embedded Audio File, may need to reduce the volume</figcaption>
 
 <audio controls src="20240512_brook.mp3">
 
@@ -50,22 +46,24 @@ Your browser does not support the <code>audio</code> element.
 
 </figure>
 
-Human developments and education teaches by addition.
+Human developments and education teaches by addition. Building upon knowledge, a little by little.
 
-Building upon knowledge, a little by little.
-
-Nature seems to teaches by subtraction, removing, healing, and restoring things and souls to what they once were.
+Nature seems to teaches by subtraction, removing, healing, and restoring. Things and memories to souls, returning to a place and restoring souls to as they were.
 
 With that newly created space, one can wonder, ask questions and receive answers in the form of vista-inspired messages or recollections of past events.
 
-As the feet wanders, the mind seems to be shaped and sharpened, perhaps by the mechanics of movement. Clearing away the human generated understanding and replacing it with the natural and lasting thoughts and feelings about life and our place in the world.
+As the feet wanders, the mind seems to be shaped and sharpened, perhaps by the mechanics of movement.
+
+Filtering away misconceptions and complementing the human generated understanding. And if necessary, replacing it with the natural and lasting thoughts And positive feelings about life and our place in the world.
 
 ![20240514B RC](m2.jpeg){#fig-20240514B}
 
-Is not the space between Heaven and Earth like a bellows?
+> Is not the space between Heaven and Earth like a bellows?\
+> It is empty, but lacks nothing.\
+> The more it moves, the more comes out of it.
 
-It is empty, but lacks nothing.
+天 地 之 間 其 猶 橐 籥 乎 虛 而 不 屈 動 而 愈 出
 
-The more it moves, the more comes out of it.
+Chapter 5, 道德經 - Dao De Jing[^1]
 
-The space between heaven and earth is like a bellows, it is empty but does not collapse; it moves and more and more issues.
+[^1]: https://ctext.org/dao-de-jing
