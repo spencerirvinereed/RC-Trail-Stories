@@ -5,7 +5,7 @@ date: "2024-05-14"
 format:
   html:
     resources:
-      - 20240512_brook.mp3
+      - 20240512_brook.wav
 categories: [recollection, confluence]
 image: "m1.jpeg"
 ---
@@ -24,6 +24,8 @@ Challenging yet confirming daily the Greek philosopher Heraclitus' quote,
 
 ![20240514A RC](m1.jpeg){#fig-20240514A}
 
+## Flowing Air
+
 Each hike is different than the one before, even on the same path, at the same hour.
 
 Because the Canyon offers a combination of flowing water, singing birds or flowing breeze. Sounds one can hear and also feel. In the morning, the canyon feels as if a chilled oxygen tank has been opened.
@@ -35,20 +37,19 @@ The emptied mind is replaced with recollections of the past, appreciation for th
 ## Flowing Water
 
 <figure>
-
 <figcaption>Embedded Audio File, may need to reduce the volume</figcaption>
-
-<audio controls src="20240512_brook.mp3">
-
+<audio controls src="20240512_brook.wav">
 Your browser does not support the <code>audio</code> element.
-
 </audio>
-
 </figure>
 
-Human developments and education teaches by addition. Building upon knowledge, a little by little.
+![](IMG_7902.JPG)
 
-Nature seems to teaches by subtraction, removing, healing, and restoring. Things and memories to souls, returning to a place and restoring souls to as they were.
+Human developments and education teaches by addition. 
+Building upon knowledge, a little by little.
+
+Nature teaches by subtraction, removing, healing, and at times restoring. 
+Things and memories to the soul, returning to a place and restoring souls to as they were.
 
 With that newly created space, one can wonder, ask questions and receive answers in the form of vista-inspired messages or recollections of past events.
 
