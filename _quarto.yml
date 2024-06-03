@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Trail Inspired Stories"
+  title: "Trail Inspired Memories"
   navbar:
     right:
       - about.qmd
