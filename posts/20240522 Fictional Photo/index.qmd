@@ -2,45 +2,122 @@
 title: "Professional Amateur"
 author: "DK"
 date: "2024-05-22"
-draft: yes
-categories: [consumer]
+image: "m1.jpg"
+categories: [non-fiction]
 ---
 
-Recall speaking to a person at a Art Gallery in Park City.\
-\
+Remember a discussion with a young man at a Park City gallery.
+
 I was looking at a photo of a Horse Shoe Bend at sunset with threatening clouds.\
-I commented the photo didn't represent the location.\
+I commented that the photo didn't represent the location.\
 \
-The person hearing me said the photo accurately depicted the location.\
-I thought to myself, perhaps once a year \
-\
-As we parted ways,
+A person overheard my comment and said the photo accurately depicted the location.\
+As we parted, both of us clung to our convictions.
+
+---
+
+There is a need to enhance the photo with available tools.\
+However, if one starts pulling in elements not present at the time the photo was taken, is that accurate?
 
 What constitutes a photo of a location.\
-Do we need to create a separate category, fiction and non-fiction photo.\
-\
-I can understand the need to enhance the photo with available tools.\
-However, if we start pulling in elements not present at the time the photo was taken, is that accurate?\
+Do we need to create a separate category, fiction and non-fiction photo.
 
----
+![](m2.JPG)
 
-How about food?
+## Fiction vs Non-Fiction Photos
 
-Often used but entirely inaccurate use of a word - authentic.\
-At what point does the sauce over take the food.\
+Should there be two (2) categories of photos, as in literature?
 
-Korean restaurants are hard to commercialize since each area in Korea has its own spin on dishes.
+Fiction vs Non-Fiction as defined by the Cambridge Dictionary^[<https://dictionary.cambridge.org/us/dictionary/english/non-fiction>]
 
-In fact, each family within those area may have a special recipe for Kimchi.
+> writing that is about real events and facts, rather than stories that have been invented
+
+And Grammarly says^[<https://www.grammarly.com/blog/fiction-vs-nonfiction/#:~:text=Fiction%20refers%20to%20literature%20that,people%2C%20information%2C%20or%20events.>],
+
+> Fiction refers to literature that is not grounded in real-life events but is made up or created from a writer's imagination. Nonfiction refers to factual stories based on real people, information, or events.
+
+When does photographs cross that boundary?
+
+When does it stop being a factual photos based on real people, information, or events.
+
+------------------------------------------------------------------------
+
+## Enhancements in Food
+
+Traditional Korean Cuisine are difficult to commercialize since each area in Korea has its own, unique way of preparing dishes.
+
+It is likely that each family within those area have a special recipe for a variety of Kimchi.
 
 Regional differences may include spice amount variation due to weather factors.
 
-Cooler in north, less salt and spice.
+In olden days, up to 1970s, prior to widespread availability of refrigeration, a handcart (리어카^[<https://www.wikiwand.com/ko/%EB%A6%AC%EC%96%B4%EC%B9%B4>], 손수래) full of Kimchi^[See Appendix].
+
+I remember following the handcart home as the older gentleman pulled the 배추 (cabbage) that would sustain the family.
+
+The 배추 was stacked several levels high, in a roughly 2 meters by 1.5 meter enclosure.
+
+In the cooler north, less salt and spice would be used.
+
+Whereas warmer southern areas used more salt and spices to preserve the 김치 longer.
+
+![](m3.JPG)
 
 ---
 
-Marketing will continue to sell things
+Nowadays, with availability of fresh vegetables and economies of scale, hardly anyone makes 김치 at home.
 
-\
-In life, when is it we are crossing the line,\
-A little enhancement or lot of enhancement
+While convenient, the art of making and the unique taste of each region is slowly and inevitably disappearing.
+
+Furthermore, many of the traditional Korean dishes have the look, the smell but the taste has been changed.
+
+Some of the flavors derived from the differences in material and family recipes has been replaced by the easily replicated sauces.
+
+Gone are the authenticity.
+
+---
+
+Dictionary.com defines authentic as,
+
+1.  not false or copied; genuine; real:
+
+2.  having an origin supported by unquestionable evidence; authenticated; verified:
+
+Perhaps, we need to identify photos as authentic or enhanced.
+
+But in this life, does it matter?
+
+Only the author or the photographer knows for sure.
+
+And if the product remains non-commercialized, then the argument no longer appliers.
+
+I miss those days when the visits to restaurants were less frequent.
+
+And each household held on to their own traditions and secret recipes.
+
+In this age, as more items are commercialized, the words of `Syndrome` comes to mind.
+
+> When all are special, no one is special
+
+I do not know how Artificial Intelligence will impact this and future generation.
+
+However, as long as, the work is kept private and not shared, there is no need to worry about whether the work will be in public domain, copied and re-generated as AI produced product.
+
+![](m1.jpg)
+
+## Appendix : 김장 (Kimjang)
+
+김장 (Kimjang) is the traditional Korean practice of making and preserving kimchi, an essential part of Korean cuisine.
+
+### Kimjang: A Millennial's Guide to a Timeless Tradition
+
+**What is Kimjang?** Kimjang is a communal activity where families and communities come together in late autumn to prepare large quantities of kimchi for the winter. This tradition is deeply rooted in Korean culture and has even been recognized by UNESCO as an Intangible Cultural Heritage of Humanity.
+
+**Why Kimjang?** - **Seasonal Necessity**: Before modern refrigeration, Koreans used to preserve vegetables for the long, harsh winters. Kimchi, made from fermented cabbage and radishes, provided essential nutrients during these months. - **Community Bonding**: Kimjang is more than just food preparation; it’s a social event. Families and neighbors gather to share the labor, recipes, and stories, strengthening community ties.
+
+**The Process of Kimjang** 1. **Preparation**: Fresh ingredients like napa cabbage, radishes, garlic, ginger, and red chili pepper flakes are gathered. The cabbage is salted to draw out moisture and ensure a crisp texture. 2. **Mixing**: A spicy paste made from chili pepper flakes, garlic, ginger, and often fish sauce or salted shrimp is prepared. This paste is then mixed with other ingredients like radishes and green onions. 3. **Stuffing and Packing**: The salted cabbage leaves are coated with the spicy mixture and then packed tightly into jars or traditional Korean earthenware pots (onggi). 4. **Fermentation**: The kimchi is left to ferment, which can take a few days to a few weeks, depending on the temperature and desired flavor.
+
+**Why It Matters Today** - **Cultural Heritage**: Participating in Kimjang is a way to connect with Korean heritage and history. - **Healthy Eating**: Kimchi is a superfood rich in vitamins, probiotics, and fiber, promoting gut health and boosting immunity. - **Sustainability**: Making kimchi at home reduces food waste and reliance on store-bought products, which often come with excess packaging.
+
+**Modern Kimjang** Today, while some still follow the traditional methods, many have adapted Kimjang to fit urban lifestyles: - **Community Centers and Workshops**: Urban dwellers often gather at local community centers or attend workshops to make kimchi together. - **Small Batches**: With limited space, many people make smaller batches of kimchi more frequently throughout the year. - **Innovative Recipes**: Millennials experiment with new ingredients and flavors, incorporating vegan or gluten-free options.
+
+By participating in Kimjang, millennials can enjoy delicious, homemade kimchi while honoring a practice that has sustained Korean families for generations. Whether in a small apartment or a community kitchen, Kimjang continues to be a cherished tradition, bringing people together in the spirit of sharing and preserving food.
