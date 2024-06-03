@@ -8,15 +8,15 @@ categories: [non-fiction]
 
 Remember a discussion with a young man at a Park City gallery.
 
-I was looking at a photo of a Horse Shoe Bend at sunset with threatening clouds.\
-I commented that the photo didn't represent the location.\
+I was looking at a photo of a `Horse Shoe Bend` at sunset with threatening clouds.\
+Commented that the photo didn't represent the location.\
 \
 A person overheard my comment and said the photo accurately depicted the location.\
 As we parted, both of us clung to our convictions.
 
----
+------------------------------------------------------------------------
 
-There is a need to enhance the photo with available tools.\
+At times, there is a need to enhance the photo with available tools.\
 However, if one starts pulling in elements not present at the time the photo was taken, is that accurate?
 
 What constitutes a photo of a location.\
@@ -28,11 +28,15 @@ Do we need to create a separate category, fiction and non-fiction photo.
 
 Should there be two (2) categories of photos, as in literature?
 
-Fiction vs Non-Fiction as defined by the Cambridge Dictionary^[<https://dictionary.cambridge.org/us/dictionary/english/non-fiction>]
+Fiction vs Non-Fiction as defined by the Cambridge Dictionary[^1]
+
+[^1]: <https://dictionary.cambridge.org/us/dictionary/english/non-fiction>
 
 > writing that is about real events and facts, rather than stories that have been invented
 
-And Grammarly says^[<https://www.grammarly.com/blog/fiction-vs-nonfiction/#:~:text=Fiction%20refers%20to%20literature%20that,people%2C%20information%2C%20or%20events.>],
+And Grammarly says[^2],
+
+[^2]: <https://www.grammarly.com/blog/fiction-vs-nonfiction/#:~:text=Fiction%20refers%20to%20literature%20that,people%2C%20information%2C%20or%20events.>
 
 > Fiction refers to literature that is not grounded in real-life events but is made up or created from a writer's imagination. Nonfiction refers to factual stories based on real people, information, or events.
 
@@ -50,11 +54,17 @@ It is likely that each family within those area have a special recipe for a vari
 
 Regional differences may include spice amount variation due to weather factors.
 
-In olden days, up to 1970s, prior to widespread availability of refrigeration, a handcart (리어카^[<https://www.wikiwand.com/ko/%EB%A6%AC%EC%96%B4%EC%B9%B4>], 손수래) full of Kimchi^[See Appendix].
+In olden days, up to 1970s, prior to widespread availability of refrigeration, a handcart (리어카[^3], 손수래) full of 배추 (Napa Cabbage) was transformed into a 김치, Kimchi[^4]
 
-I remember following the handcart home as the older gentleman pulled the 배추 (cabbage) that would sustain the family.
+[^3]: <https://www.wikiwand.com/ko/%EB%A6%AC%EC%96%B4%EC%B9%B4>
+
+[^4]: See Appendix
+
+I remember following the handcart home as the older gentleman pulled the 배추 that would sustain the family.
 
 The 배추 was stacked several levels high, in a roughly 2 meters by 1.5 meter enclosure.
+
+My mother and a dozen or so neighbors would wash, prepare and assemble the 김치, that would be buried underground for the winter.
 
 In the cooler north, less salt and spice would be used.
 
@@ -62,7 +72,7 @@ Whereas warmer southern areas used more salt and spices to preserve the 김치 l
 
 ![](m3.JPG)
 
----
+------------------------------------------------------------------------
 
 Nowadays, with availability of fresh vegetables and economies of scale, hardly anyone makes 김치 at home.
 
@@ -74,7 +84,7 @@ Some of the flavors derived from the differences in material and family recipes 
 
 Gone are the authenticity.
 
----
+------------------------------------------------------------------------
 
 Dictionary.com defines authentic as,
 
