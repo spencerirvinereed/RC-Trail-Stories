@@ -8,7 +8,6 @@ categories: [pro-sumer]
 
 Marketing will continue to sell things
 
-\
 In life, when is it we are crossing the line,\
 A little enhancement or lot of enhancement
 
@@ -22,7 +21,13 @@ Not the loudest speakers or deepest bass but enough sound
 
 Perhaps combine several small radios to match one big speaker
 
----
+------------------------------------------------------------------------
+
+Transition from maximum level to minimum level that satisfies.
+
+That is what is the minimal sound level that I can detect rather than what is the maximum level before distortion kicks in.
+
+------------------------------------------------------------------------
 
 Hoping to learn from the Japanese, their secret
 
@@ -35,3 +40,7 @@ Toyota people kindly telling US visitors.
 Instead of learning how we do things, why don't you come up with solutions that meet your needs.
 
 Hence Kata.
+https://www.youtube.com/watch?v=_es3hYCMMmc
+
+
+
