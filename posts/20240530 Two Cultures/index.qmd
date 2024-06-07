@@ -6,7 +6,7 @@ categories: [cultures]
 image: "20240605_064234.jpg"
 ---
 
-After a dinner, a guest commented
+After a dinner, a guest commented,
 
 > You have maintained the best traits of 2 cultures.
 
@@ -14,7 +14,9 @@ He was being a good guest, paying a compliment to the host.
 
 But in case he meant it, wondered,
 
-> what are the values of 2 cultures that was born into and the one I grew up in.
+> what are the values of 2 cultures, 
+one that was I born into 
+and the one I grew up in.
 
 ------------------------------------------------------------------------
 
@@ -26,7 +28,7 @@ I didn't pay much attention to it at the time. I was busy getting ready for the 
 
 Recently I came across the full article [on-line](https://homepages.se.edu/cvonbergen/files/2013/01/The-Values-Americans-Live-By.pdf).
 
-The article was written by L. Robert Kohls, who
+The article was written by L. Robert Kohls, who^[from the opening paragraph of https://sacredheartnorfolk.org/wp-content/uploads/2015/08/Values-of-American-Cultures.pdf]
 
 > ... was the former director of training for the United States Information Agency where he wrote books for both Americans living abroad, and foreigners coming to America. A native of Iowa and a Korean War veteran, he and his wife moved to Korea in 1953 and founded a Mennonite orphanage, grade school, middle school and high school. Later he returned to the United States where he taught classes on comparative religions and world cultures. Sadly he passed away in 2006.
 
@@ -34,10 +36,10 @@ Robert opens with this,
 
 > Most Americans would have a difficult time telling you, specifically, what the values are which Americans live by. They have never given the matter any thought. (and) ...their belief that every individual is so unique that the same list of values could never be applied to all, or even most, of their fellow citizens.
 
-Though I have not met a person that displayed all 13 values. However, during my years of living in America, I have observed that, as a group Americans value these traits as positive and lives by them.
+I have not yet met a person that displayed all 13 values. 
+However, during my years of living in America, I have observed that, "...as a group, Americans value these traits as positive and lives by them."
 
 ![](20240605_065932.jpg) 
-
 ## U.S. Values
 
 1.  Personal Control over the Environment
@@ -71,9 +73,12 @@ During the years I was adjusting to life in America, I didn't think much about t
 
 Nor did I think about continuing or preserving that way of life.
 
-Looking back as well as looking forward, I am glad that I experienced dual culture. Minus those years of adjusting, as a teenager. Dual culture has meant an added insights, a knowledge, and a foundation.
+Looking back as well as looking forward, I am glad that I experienced dual culture. 
+[Minus those years of adjusting, as a teenager.] 
 
-Starting as an intersection and growing into an union of good things in both cultures.
+Dual culture has meant an added insights, a knowledge, and a foundation.
+
+Starting as an intersection $\bigcap$ and growing into an union $\bigcup$ of good things in both cultures.
 
 Recently, a neighbor dropped off a 8.5 by 11 inch printout of the following,
 
@@ -81,7 +86,7 @@ Recently, a neighbor dropped off a 8.5 by 11 inch printout of the following,
 
 > 10 Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.
 
-Thank you people of Korea and United States and the Household of Faith
+Thank you people of Korea, United States and the Household of Faith
 
 ![](20240605_080704.jpg) 
 
