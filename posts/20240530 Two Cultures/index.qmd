@@ -21,7 +21,7 @@ one that was I born into and the one I grew up in.
 
 When I was preparing for an overseas assignment, 2 decades ago, I came across this article.
 
-![](images/american_value_english_1.png){width="75%"}
+![](images/american_value_english_1.png){width="50%"}
 
 I didn't pay much attention to it at the time. I was busy getting ready for the role.
 
@@ -38,7 +38,8 @@ Robert opens with this,
 I have not yet met a person that displayed all 13 values. 
 However, during my years of living in America, I have observed that, "...as a group, Americans value these traits as positive and lives by them."
 
-![](20240605_065932.jpg) 
+![](20240605_065932.jpg)  
+
 ## U.S. Values
 
 1.  Personal Control over the Environment
@@ -77,7 +78,7 @@ Looking back as well as looking forward, I am glad that I experienced dual cultu
 
 Dual culture has meant an added insights, a knowledge, and a foundation.
 
-Starting as an intersection $\bigcap$ and growing into an union $\bigcup$ of good things in both cultures.
+Starting as an intersection ($\bigcap$) and growing into an union ($\bigcup$) of good things in both cultures.
 
 Recently, a neighbor dropped off a 8.5 by 11 inch printout of the following,
 
