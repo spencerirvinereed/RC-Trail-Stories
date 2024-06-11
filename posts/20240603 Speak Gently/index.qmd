@@ -3,7 +3,7 @@ title: "Gently Listen"
 author: "DK"
 date: "2024-06-10"
 categories: [traditions]
-image: "m1.jpg"
+image: "m1.JPG"
 ---
 
 Koreans like to hike mountains.
@@ -55,23 +55,23 @@ Captured in these exchanges, may reveal the following
 The reaction to the statement of the fact determines the level of listener.
 My parent's generation, especially was adept at this.
 
-Glad that my mother-in-law made an indirect request.
+Glad that she made an indirect request.
 
 ------------------------------------------------------------------------
 
-One day, my mother–in-law mentioned,
+One day, mother–in-law mentioned,
 
 > Wonder what the view of the valley would be from a location on the mountain?
 
 We didn't understand her words initially.
 
-We had wished, she could be more direct, for
+We had wished, can she be more direct, for
 
 > direct communication is the quickest and a surest way to communicate
 > It is if the message delivery is to maximized for efficiency.
 
 Finally understood that she wanted to climb the Y-Mountain.
-It became our issue to resolve and we arrange a time to do it as a family.
+It became our issue to resolve and we arranged a time to do it as a family.
 
 We had to figure out a way to get her up on the trail and climb to the 6266 feet level from the 5164 feet starting point[^2]
 
@@ -90,7 +90,6 @@ The team was assembled on an early May morning.
 Fifteen of her descendants pushed and pulled her up to the top of the letter Y.
 
 ![](m3.jpg)
-
 ------------------------------------------------------------------------
 
 With the passing of that generation of Koreans, we are losing the knowledge and preparation of edible mountain provided vegetables.
@@ -102,6 +101,7 @@ More directly, the hunger and the need to live off nature's offering is no longe
 However, the joy of carrying around a sack and a chance to harvest may need to be rediscovered by future generations.
 
 Grateful for the patience of the past generation.
+
 For teaching us that direct communication is not always most effective.
 There are times, one needs to shield the young generation, until they are capable on their own.
 
