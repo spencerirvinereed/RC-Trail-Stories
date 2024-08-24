@@ -6,7 +6,7 @@ draft: yes
 categories: [analog]
 ---
 
-Pant felt lighter than normal.
+Pants felt lighter than normal.
 
 One side was missing a normal component.
 
