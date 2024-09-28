@@ -1,5 +1,5 @@
 ---
-title: "Utah September" 
+title: "Last October" 
 author: "DK"
 date: "2024-09-22"
 draft: yes
@@ -24,7 +24,7 @@ Old music in old format, with all its deficiencies.
 Old handwritten records.
 Old memories and love.
 
-A bound scrapbook containing items from 4 children's growing up years.
+A 4 inch bound scrapbook containing items from 4 children's growing up years.
 
 What I wish I had more of
 
@@ -32,7 +32,7 @@ A hand written expression of love and appreciation
 
 Things that cannot be created by technology, AI or otherwise.
 
-Treasured memories
+## Treasured memories
 
 Although story about lost love.
 One can insert, lost dreams.
